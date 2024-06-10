@@ -1,0 +1,48 @@
+in react component asli: esmesh App ke ye jsx return mikone(sakhtar mesle html)
+
+ui ba data hamishe bayad hamahang bashe
+
+//react
+1)react component base hast yani bar paye componenthas.mesle ghatat pazel.yani in componentharo react kenare ham mizare va safa ro bara ma render mikone
+2)baraye inke har component ro tarif konim az ye syntax declarative tahte onvane jsx estefade mikonim , declarative yani ye component be che shekl dar ui man zaher beshe che datae ro namayesh bede ba tavajo be statehae ke dare 
+3)react maro az dom dor mikone , ye abstraction roye dom ejad mikone ke ma dg hichvaght niaz nadarim mostaghim mesle js kham, ba dom kar konim , dar vaghe ma be react migim vaghti ye data avaz shod mikham ye etefaghi biofte,behesh nemigim chetor inkaro anjam bede, react inkaro tavasot syntax jsx anjam mide , ke html css js ro mitonim dakhelesh tarkib konim va az componenta dar componentaye dg estefade konim
+4)hala ke ma ba dom kar nemikonim react chetor ui ro bara ma update mikone? inja concebt state miad vasat(be data migan state mesle array az apartemanha) ke react state ro migire va ui ro baramon render mikone(ba tavajo be jsx ke neveshtim)
+5)react ye library hast ,ke bar paye framework react hast
+
+react dar render gereftan component ha dar safe web saite ma ,va dar nahayat kenar ham gharar dadan in componentha ui ro misaze.
+react state ha va data maro , mitone ba data sinc negah dare
+
+//amade kardan mohit barname nevisi for react
+abzarhae ke estefade mikonim roye node js kar mikonan,pas node js ro nasb mikonim.
+
+dar vscode: user snippets,new snippets,name (va etelat file 00-snippets jonas ro tosh copy kon)
+
+//document react (site: react.dev)
+
+creat react App : in command prompt :baraye raftan be jae ke mikhay folder proje ro besazi: cd desktop ro bezan bad baraye download pacageha benevis : npx create-react-app@5 pizza-menu :akharesh esm proje hast
+hala in poshei ke download shode ro dar vscode baz kon , 
+dar file package.json ghesmat start :ma bayad in script haro run konim:baraye start dar terminal mizanam:npm start  (va proje run mishe)
+
+files App ta setupTests.js ro pak kon,az aval misazim
+
+//rafe error
+1)Application bayad start she ta mororgar update she
+2)ye bar app ro stop kon (ctrl+c) va dobare, npm start
+3)terminal va inspect baz bashe 
+
+har component "data logic appearance" makhsos khodesho dare.
+
+ye sakhtare derakhti baraye componentha neshon mide ertebateshon ba ham chetore
+
+----
+files jonas marbot be proje ro dar file proje asli gharar bede(hamon poshei ke pacageharo nasb kardi tosh)*
+
+esme fun avalesh big.
+
+matn data.js ro dar index.js copy mikonam va ono pak mikonam.
+
+alt and up/down  for harkat beyne khata
+
+in setting "diff decoration" va az all be none change kon ta rang git felan mozahem nabashe chon proje ha kochikan va az repazitori gitub estefade nemikonim.
+
+
